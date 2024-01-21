@@ -2,7 +2,7 @@
 using namespace std;
 //ścieżka Eulera to taka ścieżka, która przechodzi przez każdą krawędź grafu dokładnie raz
 //cykl Eulera to ścieżka Eulera która jest cyklem
-//algorytm znajduje ścieżkę Eulera w grafie nieskierowanym w czasie O(m), gdzie m to liczba krawędzi
+//algorytm znajduje ścieżkę Eulera w grafie skierowanym w czasie O(m), gdzie m to liczba krawędzi
 //ścieżka Eulera istnieje wtedy i tylko wtedy, gdy jest 0 lub 2 wierzch o nieparzystej ilości ścieżek wychodzących od nich
 //cykl Eulera isteniej wtedy i tylko wtedy, gdy wszystkie wierzchołki maja patrzystą liczbę krawędzi wychodzących od nich
 
